@@ -16,6 +16,8 @@
 
 This document will explain the fundamentals of how the Word Master game works. 
 
+- ([Youtube Demo](https://youtu.be/sClFZwInyvM))
+
 # 1.3 The Rules of Word Master
 
 Word Master is a typical typing game. The rules for the game are as follow:
